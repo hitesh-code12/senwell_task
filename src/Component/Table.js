@@ -49,7 +49,7 @@ let green={
       <table style={{ border: "1px solid" }}>
         <thead>
         <tr>
-          <th>Name</th>
+          <th>Names</th>
 
           <th>No. of Duplicaates</th>
         </tr>
